@@ -35,8 +35,8 @@ p{
   }
 
   .item1{
-      width: 100%;
-      max-width: 600px; 
-      height: auto; 
-      align-items: center; 
+      display: block;
+      margin-left: auto; 
+      margin-right: auto; 
+      width: 50%; 
   }
