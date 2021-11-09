@@ -35,6 +35,7 @@ p{
   }
 
   .item1{
-      width: 25%;
+      width: 100%;
+      max-width: 600px; 
       height: auto; 
   }
