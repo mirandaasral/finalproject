@@ -33,3 +33,8 @@ p{
     font-family: "Baskerville";
     text-align: center; 
   }
+
+  .item1{
+      width: 75%;
+      height: auto; 
+  }
