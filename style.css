@@ -1,0 +1,35 @@
+p{
+    text-align: center; 
+    font-family: "Times";
+    font-size: 6vw; 
+  }
+  
+  .header{
+    display: grid; 
+    grid-auto-columns: 1fr; 
+    background-color: #FFF4F0;
+  }
+  
+  ul{
+    list-style-type: none; 
+    margin: 0; 
+  }
+  
+  li{
+    display: inline-block; 
+  }
+  
+  li a{
+    display: grid; 
+    grid-auto-columns: 1fr; 
+    padding: 2vw;
+    color: black;
+    text-decoration: none; 
+  }
+  
+  .navigation{
+    display: grid;
+    background-color: #F8E9E2;
+    font-family: "Baskerville";
+    text-align: center; 
+  }
