@@ -68,3 +68,9 @@ p{
   i{
     color: grey; 
   }
+
+  .search{
+    float: right; 
+    max-width: 100px; 
+    width: 100%; 
+  }
