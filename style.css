@@ -40,3 +40,8 @@ p{
       margin-right: auto; 
       width: 50%; 
   }
+
+  .bar{
+    display: grid; 
+    background-color: #FFF4F0;
+  }
