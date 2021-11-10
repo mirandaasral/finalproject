@@ -79,10 +79,17 @@ p{
     margin-right: auto; 
   }
 
- .about-image{
+  .grid-container{
    display: grid; 
    grid-template-columns: auto auto; 
-   float: left; 
+ }
+
+ .about-image{
+   display: grid; 
    grid-column: 1/2; 
-   height: auto; 
+ }
+
+ .about-p{
+   display: grid; 
+   grid-column: 2/3; 
  }
