@@ -43,7 +43,7 @@ p{
   }
 
   .bar{
-    display: inline-block; 
+    display: block; 
     background-color: #FFF4F0;
     max-width: 450px; 
     border-style: solid; 
