@@ -67,7 +67,10 @@ p{
 
   i{
     color: grey; 
-    background-color: #FFF4F0; 
+  }
+
+  p.quote{
+    background: #FFF4F0; 
   }
 
   .search{
