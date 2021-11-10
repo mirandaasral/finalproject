@@ -78,3 +78,8 @@ p{
     margin-left: auto; 
     margin-right: auto; 
   }
+
+  .clear-icon{
+    position: absolute; 
+    cursor: pointer;
+  }
