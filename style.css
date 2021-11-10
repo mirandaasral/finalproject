@@ -42,6 +42,10 @@ p{
   }
 
   .bar{
-    display: grid; 
+    display: inline-block; 
     background-color: #FFF4F0;
+    max-width: 450px; 
+    border-style: solid; 
+    border-color: #FFF4F0; 
+    width: 100%; 
   }
