@@ -82,14 +82,18 @@ p{
   .grid-container{
    display: grid; 
    grid-template-columns: auto auto; 
+   grid-template-rows: auto; 
+   height: 100%; 
  }
 
  .about-image{
    display: grid; 
    grid-column: 1/2; 
+   grid-row: 1/2; 
  }
 
  .about-p{
    display: grid; 
    grid-column: 2/3; 
+   grid-row: 1/2; 
  }
