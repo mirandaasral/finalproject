@@ -93,6 +93,7 @@ p{
    display: grid; 
    grid-template-columns: repeat(6, 1fr);
    height: 100%;
+   grid-gap: 10px; 
  }
 
  .about-image{
