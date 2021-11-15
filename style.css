@@ -62,6 +62,7 @@ p{
   }
 
   p.quote{
+    display: block; 
     background: #FFF4F0; 
     padding: 2vw; 
     position: absolute; 
