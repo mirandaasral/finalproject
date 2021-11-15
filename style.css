@@ -82,9 +82,3 @@ p{
    grid-template-rows: auto; 
    height: 100%; 
  }
-
- .about-image{
-   display: grid; 
-   grid-column: 1/2; 
-   grid-row: 1/2; 
- }
