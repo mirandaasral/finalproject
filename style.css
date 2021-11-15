@@ -64,6 +64,7 @@ p{
   p.quote{
     background: #FFF4F0; 
     padding: 2vw; 
+    position: absolute; 
   }
 
   .search{
