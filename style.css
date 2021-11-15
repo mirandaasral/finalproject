@@ -88,3 +88,15 @@ p{
    grid-template-rows: auto; 
    height: 100%; 
  }
+
+ .grid-container{
+   display: grid; 
+   grid-template-columns: repeat(6, 1fr);
+   height: 100%;
+ }
+
+ .about-image{
+   display: grid; 
+   grid-column: 1/4; 
+   grid-row: 1/2; 
+ }
